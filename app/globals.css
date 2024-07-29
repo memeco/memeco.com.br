@@ -31,3 +31,5 @@ body {
     text-wrap: balance;
   }
 }
+#header { background-color: #000;
+color: #FFF;}
