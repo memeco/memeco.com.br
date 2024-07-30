@@ -47,7 +47,7 @@ export default function Page() {
           >
             Memeco
           </Link>
-          , jogador carioca.
+          , jogador de vôlei carioca falecido.
         </p>
       </main>
     </div>
