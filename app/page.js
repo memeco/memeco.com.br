@@ -51,10 +51,8 @@ export default function Page() {
           Memeco:
         </p>
         <br></br>
-        <p>
-          {" "}
-          <h3>Origem de Memeco</h3>
-        </p>
+        <h1 className="text-2xl font-bold">Origem de Memeco</h1>
+        <br></br>
         <p>
           Quando usava mIRC há muito tempo atrás, meu apelido era Meme, de E
           <strong>me</strong>rson. Daí fui fazendo amigos lá e tinha um amigo
