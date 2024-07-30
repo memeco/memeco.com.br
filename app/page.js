@@ -50,9 +50,10 @@ export default function Page() {
           , jogador de vôlei carioca falecido. Aqui está a explicação do apelido
           Memeco:
         </p>
+        <br></br>
         <p>
           {" "}
-          <h2>Origem de Memeco</h2>
+          <h3>Origem de Memeco</h3>
         </p>
         <p>
           Quando usava mIRC há muito tempo atrás, meu apelido era Meme, de E
