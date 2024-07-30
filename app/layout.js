@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Emerson (Memeco) Marques Pedro",
-  description: "Gerado com Next e Tailwind",
+  description: "Gerado com Next e Tailwind sobre Emerson (Memeco) Marques Pedro",
 };
 
 export default function RootLayout({ children }) {
