@@ -47,8 +47,19 @@ export default function Page() {
           >
             Memeco
           </Link>
-          , jogador de vôlei carioca falecido.
+          , jogador de vôlei carioca falecido. Aqui está a explicação do apelido
+          Memeco:
         </p>
+        <p>
+          {" "}
+          <h2>Origem de Memeco</h2>
+        </p>
+        <p>
+          Quando usava mIRC há muito tempo atrás, meu apelido era Meme, de E
+          <strong>me</strong>rson. Daí fui fazendo amigos lá e tinha um amigo
+          com apelido Leleco (Leandro).
+        </p>
+        <p>Como o Leleco era amigo do Meme, naturalmente virei Memeco.</p>
       </main>
     </div>
   );
