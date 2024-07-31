@@ -13,7 +13,7 @@ export default function Page() {
           href="https://translate.google.com/translate?hl=pt-BR&sl=pt&tl=en&u=http://memeco.com.br"
           className="text-blue-500 hover:text-gray-600"
         >
-          🇺🇸 Switch to English
+          🇺🇸&nbsp;Switch to English
         </Link>
       </div>
 
@@ -50,7 +50,7 @@ export default function Page() {
 
       <main className="container mx-auto p-4 text-black">
         <p>
-          Olá, eu não sou o{" "}
+          Este site não é sobre&nbsp;
           <Link
             href="https://pt.wikipedia.org/wiki/Memeco"
             className="text-blue-500 hover:text-gray-600"
