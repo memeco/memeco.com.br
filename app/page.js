@@ -13,7 +13,7 @@ export default function Page() {
           href="https://translate.google.com/translate?hl=pt-BR&sl=pt&tl=en&u=http://memeco.com.br"
           className="text-blue-500 hover:text-gray-600"
         >
-          Switch to English
+          🇺🇸 Switch to English
         </Link>
       </div>
 
