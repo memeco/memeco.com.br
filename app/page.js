@@ -7,6 +7,16 @@ export default function Page() {
         Emerson (Memeco) Marques Pedro
       </h1>
 
+      {/* Adicione o link de tradução aqui */}
+      <div className="text-center mb-4">
+        <Link
+          href="https://translate.google.com/translate?hl=pt-BR&sl=pt&tl=en&u=http://memeco.com.br"
+          className="text-blue-500 hover:text-gray-600"
+        >
+          Switch to English
+        </Link>
+      </div>
+
       <header className="bg-black">
         <nav>
           <ul className="flex space-x-4 justify-center">
@@ -58,6 +68,7 @@ export default function Page() {
           <strong>me</strong>rson. Daí fui fazendo amigos lá e tinha um amigo
           com apelido Leleco (Leandro).
         </p>
+        <br></br>
         <p>Como o Leleco era amigo do Meme, naturalmente virei Memeco.</p>
       </main>
     </div>
