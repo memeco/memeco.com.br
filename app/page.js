@@ -47,8 +47,8 @@ export default function Page() {
           >
             Memeco
           </Link>
-          , jogador de vôlei carioca falecido. Aqui está a explicação do apelido
-          Memeco:
+          , jogador de vôlei carioca falecido. Aqui está a explicação do meu
+          apelido Memeco:
         </p>
         <br></br>
         <h1 className="text-2xl font-bold">Origem de Memeco</h1>
