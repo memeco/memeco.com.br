@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Page() {
   return (
@@ -6,6 +7,16 @@ export default function Page() {
       <h1 className="text-3xl font-bold text-center mb-4">
         Emerson (Memeco) Marques Pedro
       </h1>
+
+      <div className="flex justify-center mb-4">
+        <Image
+          src="https://avatars.githubusercontent.com/u/3230685?v=4"
+          alt="Emerson (Memeco) Marques Pedro"
+          width={128}
+          height={128}
+          className="rounded-full"
+        />
+      </div>
 
       {/* Adicione o link de tradução aqui */}
       <div className="text-center mb-4">
