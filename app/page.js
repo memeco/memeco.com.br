@@ -41,7 +41,7 @@ export default function Page() {
             </li>
             <li>
               <Link
-                href="/sobre"
+                href="https://www.memecoportfolio.com/#sobre"
                 className="text-white hover:bg-white hover:text-black"
               >
                 Sobre
@@ -49,7 +49,7 @@ export default function Page() {
             </li>
             <li>
               <Link
-                href="/redes-sociais"
+                href="https://www.memecoportfolio.com/#redes"
                 className="text-white hover:bg-white hover:text-black"
               >
                 Redes Sociais
