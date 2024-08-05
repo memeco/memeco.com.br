@@ -6,6 +6,9 @@ cd /path/to/your/nextjs/project
 # Build your Next.js application
 npm run build
 
+# Export your Next.js application for deployment
+npm run export
+
 # Navigate to the out directory
 cd out
 
