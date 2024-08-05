@@ -1,13 +1,10 @@
 #!/bin/bash
 
 # Navigate to your Next.js project directory
-cd /path/to/your/nextjs/project
+cd /actual/path/to/your/nextjs/project
 
 # Build your Next.js application
 npm run build
-
-# Export your Next.js application for deployment
-npm run export
 
 # Navigate to the out directory
 cd out
@@ -28,4 +25,4 @@ git remote add origin https://github.com/memeco/memeco.com.br.git
 git push -f origin main
 
 # Deploy to Cloudflare Pages
-npx wrangler pages publish out --project-name=memeco-com-br
+npx wrangler pages deploy . --project-name=memeco-com-br

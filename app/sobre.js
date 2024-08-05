@@ -4,9 +4,9 @@ const Sobre = () => {
   return (
     <div>
       <h1>Sobre Mim</h1>
-      <p>Meu nome é [Seu Nome]. Sou um(a) [Sua Profissão].</p>
-      <p>Minhas habilidades incluem: [Suas Habilidades].</p>
-      <p>Um pouco sobre mim: [Sobre Você].</p>
+      <p>Meu nome é Emerson (Memeco) Marques Pedro. </p>
+      <p>Minhas habilidades incluem: Dev Full Stack.</p>
+      <p>Um pouco sobre mim: desenvolvedor/programador e curto música.</p>
     </div>
   );
 };
