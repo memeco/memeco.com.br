@@ -28,4 +28,4 @@ git remote add origin https://github.com/memeco/memeco.com.br.git
 git push -f origin main
 
 # Deploy to Cloudflare Pages
-npx wrangler pages publish --project-name=memeco-com-br
+npx wrangler pages publish out --project-name=memeco-com-br
